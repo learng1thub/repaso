@@ -1,3 +1,7 @@
 esto es un repaso de git
 para retomar el estudio
+<<<<<<< HEAD
 esta linea la agregue desde otra cuenta de git
+=======
+esto lo modifico desde 1amilkarhd (falso)
+>>>>>>> f2443451579f9f8536e692fbcfb8af11f799044d
