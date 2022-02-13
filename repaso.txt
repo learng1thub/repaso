@@ -1,2 +1,3 @@
 esto es un repaso de git
 para retomar el estudio
+esto lo modifico desde 1amilkarhd
