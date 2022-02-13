@@ -1,0 +1,2 @@
+esto es un repaso de git
+para retomar el estudio
