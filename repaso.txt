@@ -1,6 +1,10 @@
 esto es un repaso de git
 para retomar el estudio
 esto lo modifico desde 1amilkarhd (falso)
+<<<<<<< HEAD
 
 esta parte del texto esta creada con learng1thub pero va a ser editada con 1amilkarhd
 esto lo estoy editando desde 1amilkarhd porque soy el responsable de la rama segunda
+=======
+esto si es desde 1a
+>>>>>>> 506266441ad2e4d43d5047f60ee1e745780876f5
