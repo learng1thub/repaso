@@ -1,5 +1,5 @@
-esto es un repaso de git
-para retomar el estudio
+esto es un repaso de git, y ahora modifico esta linea el 16/2/22
+para retomar el estudio de GIT
 esto lo modifico desde 1amilkarhd (falso)
 esto si es desde 1a
 
