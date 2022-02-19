@@ -1,10 +1,10 @@
-esto es un repaso de git, y ahora modifico esta linea el 16/2/22
-para retomar el estudio de GIT
-esto lo modifico desde 1amilkarhd (falso)
-esto si es desde 1a
+Esto es un repaso de git, y ahora modifico esta linea el 16/2/22
+para retomar el estudio de GIT y github
+esto lo modifico desde la cuenta 1amilkarhd
+esto si es desde dicha cuenta
 
 esta parte del texto esta creada con learng1thub pero va a ser editada con 1amilkarhd
 esto lo estoy editando desde 1amilkarhd porque soy el responsable de la rama segunda
-vamos a probar el pull request
+vamos a probar el Git Clone
 
-esto lo agrego con learng1thub pero desde la vm
+Nueva linea para el fork
